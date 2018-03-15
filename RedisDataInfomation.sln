@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisDataInfomation", "RedisDataInfomation\RedisDataInfomation.csproj", "{224603F9-03DE-4A36-98B1-1B02AEDA46DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETMall.Common.DataAccess", "D:\GitLab\etmall-Common\ETMall.Common.DataAccess\ETMall.Common.DataAccess.csproj", "{EA847FD4-3F49-4F70-8CFA-BC55097D7AD1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{224603F9-03DE-4A36-98B1-1B02AEDA46DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{224603F9-03DE-4A36-98B1-1B02AEDA46DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{224603F9-03DE-4A36-98B1-1B02AEDA46DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA847FD4-3F49-4F70-8CFA-BC55097D7AD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA847FD4-3F49-4F70-8CFA-BC55097D7AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA847FD4-3F49-4F70-8CFA-BC55097D7AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA847FD4-3F49-4F70-8CFA-BC55097D7AD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
